@@ -1,0 +1,8 @@
+.victoryDisplay {
+  position: absolute;
+  top: 40%;
+  left: 0px;
+  font-size: 10vh;
+  color: red;
+  text-align: center;
+}
